@@ -5,7 +5,7 @@
 
 
 #Backup files
-*-BAK*.RSS
+*_BAK*.RSS
 
 # User-specific files
 *.suo
